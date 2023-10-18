@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LyorH
 - 👀 I’m interested in no code, airtable and automatization
-- 🌱 I’m a facial surgeon
-- 💞️ I want to improve my skills in order to develop my own accounting app
+- 💉 I’m a surgeon, specialize in facial surgery
+- 🖥 I want to improve my skills in order to develop my own accounting app
 
 <!---
 LyorH/LyorH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
